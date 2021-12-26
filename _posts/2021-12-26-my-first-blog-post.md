@@ -1,1 +1,4 @@
-first blog with learning github page
+---
+title: "Welcome to my blog"
+date: 2021-12-26
+---
